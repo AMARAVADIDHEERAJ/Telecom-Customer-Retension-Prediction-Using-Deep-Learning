@@ -1,0 +1,8 @@
+These are some of the quick insights from this exercise:
+
+1. Electronic check medium are the highest churners
+2. Contract Type - Monthly customers are more likely to churn because of no contract terms, as they are free to go customers.
+3. No Online security, No Tech Support category are high churners
+4. Senior Citizens have higher percentage of high churners
+
+Note: There could be many more such insights, so take this as an assignment and try to get more insights :)
